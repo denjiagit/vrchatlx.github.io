@@ -1,0 +1,75 @@
+[
+    {
+        "name": "双角鲸的奇怪实验室",
+        "str":"762722692",
+        "sub": [
+            {
+                "name": "三流船长",
+                "str": "BV1mhR3YXE2r",
+                "sub": [  
+                    {
+                        "name": "理想学院",
+                        "str": "BV1mhR3YXE2r", 
+                    },
+                    {
+                        "name": "理想众演",
+                        "str": "BV1mhR3YXE2r",  
+                    }
+                                
+                ] 
+            },
+            {
+                "name": "抖音MHY.初音酱",
+                "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                "sub": [
+                    {
+                        "name": "三体",
+                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                    },  
+                    {
+                        "name": "三体",
+                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68", 
+                    }
+                ]  
+            }
+        
+        ]
+    },
+    {
+        "name": "双角鲸的奇怪实验室2",
+        "str":"762722692",
+        "sub": [
+            {
+                "name": "三流船长2",
+                "str": "BV1mhR3YXE2r",
+                "sub": [  
+                    {
+                        "name": "理想学院2",
+                        "str": "BV1mhR3YXE2r", 
+                    },
+                    {
+                        "name": "理想众演2",
+                        "str": "BV1mhR3YXE2r",  
+                    }
+                                
+                ] 
+            },
+            {
+                "name": "抖音MHY.初音酱2",
+                "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                "sub": [
+                    {
+                        "name": "三体2",
+                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                    },  
+                    {
+                        "name": "三体2",
+                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68", 
+                    }
+                ]  
+            }
+        
+        ]
+    }
+    
+]
