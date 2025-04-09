@@ -1,36 +1,94 @@
 [
     {
-        "name": "双角鲸的奇怪实验室",
+        "name": "观赏",
         "str":"762722692",
         "sub": [
             {
-                "name": "三流船长",
+                "name": "类型1",
+                "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                "sub": [
+                    {
+                        "name": "中文梗博物馆",
+                        "str": "wrld_9856e574-cbc1-4eea-811d-f214090db1e8",
+                    },
+                    {
+                        "name": "悲鳴",
+                        "str": "wrld_86438af7-fb6d-4371-bf68-c336b65e715f",
+                    }
+                ]  
+            },
+            {
+                "name": "节日聚会",
+                "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                "sub": [
+                    {
+                        "name": "1980s老火锅",
+                        "str": "wrld_cc05378c-650b-48a2-97c9-c58d551d828d",
+                    }
+                ]  
+            },
+            {
+                "name": "军事",
+                "str": "",
+                "sub": [
+                    {
+                        "name": "三体",
+                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
+                    }
+                ]  
+            }
+        
+        ]
+    },
+    {
+        "name": "游戏",
+        "str":"762722692",
+        "sub": [
+            {
+                "name": "类型1",
+                "str": "BV1mhR3YXE2r",
+                "sub": [  
+                    {
+                        "name": "狼人杀中文版",
+                        "str": "wrld_544ab058-1317-4946-b881-9ee0438f3dd9", 
+                    },
+                    {
+                        "name": "SlashCo VR",
+                        "str": "wrld_41efe3b1-9931-40ab-a15d-6946d22481b5", 
+                    }
+                ] 
+            }
+        
+        ]
+    },
+    {
+        "name": "剧情",
+        "str":"762722692",
+        "sub": [
+            {
+                "name": "类型1",
                 "str": "BV1mhR3YXE2r",
                 "sub": [  
                     {
                         "name": "理想学院",
                         "str": "wrld_7eecfb9a-42a3-4f17-91e0-a8edb8f87849", 
-                    },
-                    {
-                        "name": "理想众演",
-                        "str": "wrld_1f684c59-d75f-4246-a785-b9e24f24dd78",  
                     }
                                 
                 ] 
-            },
+            }
+        
+        ]
+    },
+    {
+        "name": "众演",
+        "str":"762722692",
+        "sub": [
             {
-                "name": "抖音MHY.初音酱",
-                "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
-                "sub": [
-                    {
-                        "name": "三体",
-                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68",
-                    },  
-                    {
-                        "name": "三体2",
-                        "str": "wrld_f9c61ae9-d3ea-462a-9b1a-05733a5a1a68", 
-                    }
-                ]  
+                "name": "开发中",
+                "str": "BV1mhR3YXE2r",
+                "sub": [  
+                       
+                ] 
             }
         
         ]
