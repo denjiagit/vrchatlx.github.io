@@ -15,6 +15,10 @@
                         "name": "Asitir-阿西蒂尔的世界",
                         "str": "wrld_ce45700e-ef71-4112-aa2c-65ac999b3927",
                     },
+                    {
+                        "name": "枫啸-chongqingNight",
+                        "str": "wrld_7d5ea565-444d-4729-8926-1ae385c3f6e4",
+                    },
                      {
                         "name": "船长-理想学院",
                         "str": "wrld_7eecfb9a-42a3-4f17-91e0-a8edb8f87849",
@@ -29,7 +33,7 @@
         "str":"762722692",
         "sub": [
             {
-                "name": "类型1",
+                "name": "类型11",
                 "str": "BV1mhR3YXE2r",
                 "sub": [  
                     {
