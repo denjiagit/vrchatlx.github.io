@@ -7,6 +7,12 @@
         },
         {
           "name":"LocalPlayer"
+        },
+        {
+          "name":"[1]LocalPlayer"
+        },
+        {
+          "name":"[2]LocalPlayer"
         }
     ]
 }
